@@ -7,3 +7,6 @@ Keras docs: https://keras.io/layers/about-keras-layers/
 Adam optimizer: https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
 
 This repository is inspired by sentdex youtube channel: https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
+
+### Contribute -
+Contribute to this repo by adding more related useful links.
