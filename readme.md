@@ -10,3 +10,4 @@ This repository is inspired by sentdex youtube channel: https://www.youtube.com/
 
 ### Contribute -
 Contribute to this repo by adding more related useful links.
+If you like this repository give it a star
